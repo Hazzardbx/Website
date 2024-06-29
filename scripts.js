@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const menu = document.getElementById('menu');
     const rightDiv = document.getElementById('right-div');
 
-    const githubUrl = 'https://github.com/your-github-username';
+    const githubUrl = 'https://github.com/Hazzardbx';
     const linkedinUrl = 'https://www.linkedin.com/in/kalil-martins-84414315b/?locale=en_US';
 
     // Toggle menu visibility
