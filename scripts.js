@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     // Determine the icon class and visit text based on linkUrl
                     if (linkUrl === githubUrl) {
                         iconClassName = "github-icon";
-                        visitText = "Click to visit my GitHub";
+                        visitText = "Click to see my projects on GitHub";
                     } else if (linkUrl === linkedinUrl) {
                         iconClassName = "linkedin-icon";
                         visitText = "Click to visit my LinkedIn";
