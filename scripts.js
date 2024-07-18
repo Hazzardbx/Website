@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
             } else {
                 rightDiv.innerHTML = `<div class="content">${content}</div>`;
             }
-            rightDiv.style.opacity = 1; // Set opacity to 1 for fade-in effect
+            rightDiv.style.opacity = 1; // Set opacity to 1 for fade-in effect (REMINDER)
         }, 500);
 
         menuButton.classList.remove('active');
